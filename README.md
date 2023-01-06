@@ -1,4 +1,4 @@
-Olá meu nome é Leandro, sou mestrando em astrofísica pela Universidade de São Paulo (USP) desde de Agosto de 2021. Atualmente, estou trabalhando para ingressar mercado de trabalho. Venho estudando muito desenvolvimento Back-end em Java. Porém, durante a minha formação acadêmica me especializei em ciência de dados. Meu desejo é conseguir mesclar esses dois caminhos e poder fazer diferença aonde estiver atuando.
+Olá meu nome é Leandro, sou mestrando em astrofísica pela Universidade de São Paulo (USP) desde de Agosto de 2021. Na minha formação acadêmica me especializei em ciência de dados. Porém, venho estudando muito desenvolvimento Back-end em Java. Meu desejo é conseguir mesclar esses dois caminhos e poder fazer diferença aonde estiver atuando.
 
 
 
