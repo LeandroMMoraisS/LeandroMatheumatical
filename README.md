@@ -1,13 +1,10 @@
-Olá meu nome é Leandro, sou mestrando em astrofísica pela Universidade de São Paulo (USP) desde de Agosto de 2021. Na minha formação acadêmica me especializei em ciência de dados. Porém, venho estudando muito desenvolvimento Back-end em Java. Meu desejo é conseguir mesclar esses dois caminhos e poder fazer diferença aonde estiver atuando.
+Olá meu nome é Leandro, sou mestrando em astrofísica pela Universidade de São Paulo (USP) desde de Agosto de 2021. Neste momento, estou escrevendo minha dissertação e fazendo alguns projetos voltados para Back-end em Java.
 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_leandro_matheus/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-matheus-silva/)
 
-
-
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroMatheumatical&show_icons=true&theme=tokyonight)
 
 ## Tecnologias voltadas para desenvolvimento Beck-end que utilizo no meu dia a dia:
 <div style="display: inline_block">
