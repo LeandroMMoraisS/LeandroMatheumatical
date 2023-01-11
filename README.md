@@ -6,7 +6,7 @@ Olá meu nome é Leandro, sou mestrando em astrofísica pela Universidade de Sã
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-matheus-silva/)
 
 
-## Tecnologias voltadas para desenvolvimento Beck-end que utilizo no meu dia a dia:
+## Tecnologias voltadas para desenvolvimento Back-end que utilizo no meu dia a dia:
 <div style="display: inline_block">
 <img align ="center" alt="Java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
 <img align ="center" alt="Docker" src ="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
