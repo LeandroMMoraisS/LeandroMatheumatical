@@ -1,6 +1,10 @@
-Olá meu nome é Leandro, sou mestrando em astrofísica pela Universidade de São Paulo (USP) desde de Agosto de 2021. Neste momento, estou escrevendo minha dissertação e fazendo alguns projetos voltados para Back-end em Java.
+Olá! Meu nome é Leandro e sou mestrando em Astrofísica pela Universidade de São Paulo (USP) desde agosto de 2021. Atualmente, estou escrevendo minha dissertação e migrando para a área de computação quântica, com foco em problemas de otimização e inteligência artificial. Estou muito animado para explorar essa nova área e contribuir para o avanço dessas tecnologias.
 
-
+### Projetos em fase de desenvolvimento:
+https://github.com/LeandroMatheumatical/Portifolium-Otimization
+### Meus ultimos Projetos são :
+- Projeto CRUD: [Seguradora](https://github.com/LeandroMatheumatical/Sudoku-Binario)
+- Projeto  Encriptando senhas de usuários: [Encriptando-banco-de-dados](https://github.com/LeandroMatheumatical/Portifolium-Otimization)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_leandro_matheus/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-matheus-silva/)
@@ -20,7 +24,7 @@ Olá meu nome é Leandro, sou mestrando em astrofísica pela Universidade de Sã
 <img align ="center" alt="aws" src ="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 ### Projetos em fase de desenvolvimento:
-- Autenicação de usuário utilizando JWT
+- 
 
 ### Meus ultimos Projetos são :
 - Projeto CRUD: [Seguradora](https://github.com/LeandroMatheumatical/Seguradora)
