@@ -1,4 +1,3 @@
-Olá! Meu nome é Leandro e sou mestrando em Astrofísica pela Universidade de São Paulo (USP) desde agosto de 2021. Atualmente, estou escrevendo minha dissertação e migrando para a área de computação quântica, com foco em problemas de otimização e inteligência artificial. Estou muito animado para explorar essa nova área e contribuir para o avanço dessas tecnologias.
 
 
 ### Meus Projetos em Quantum Computing são :
